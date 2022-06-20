@@ -1,0 +1,6 @@
+/app/__pycache__
+/app/.ipynb_checkpoints
+/app/.streamlit/secrets.toml
+.DS_Store
+.AppleDouble
+.LSOverride
